@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title></title>
-    <description><![CDATA[]]></description>
-    <link></link>
-    <language></language>
-    <copyright></copyright>
-    <managingEditor></managingEditor>
+    <title>InnoHEALTH Magazine Podcast</title>
+    <description><![CDATA[]]>AI-generated daily health news summaries</description>
+    <link>https://guptasandhali.github.io/podcast-rss-feed</link>
+    <language>en-us</language>
+    <copyright>© 2025 InnoHEALTH Magazine</copyright>
+    <managingEditor>podcast@innohealth.com (InnoHEALTH Magazine)</managingEditor>
     <itunes:author>InnoHEALTH Magazine</itunes:author>
-    <itunes:summary><![CDATA[]]></itunes:summary>
+    <itunes:summary><![CDATA[Daily AI-generated health news summary]]></itunes:summary>
     <itunes:category text="Health &amp; Fitness"/>
-    <itunes:image href=""/>
+    <itunes:image href="https://drive.google.com/uc?export=view&id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy"/>
     <itunes:explicit>false</itunes:explicit>
     <image>
-      <url></url>
-      <title></title>
-      <link></link>
+      <url>https://drive.google.com/uc?export=view&id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy</url>
+      <title>InnoHEALTH Magazine Podcast</title>
+      <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     </image>
     <item>
-      <title><![CDATA[]]></title>
-      <description><![CDATA[]]></description>
-      <enclosure url="" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false"></guid>
-      <pubDate></pubDate>
+      <title><![CDATA[Daily Health News - 7/29/2025]]></title>
+      <description><![CDATA[Daily AI-generated health news summary]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14ma18oicF2zrHzsZ0emsw1uE6oOcazQ9" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">false</guid>
+      <pubDate>Tue, 29 Jul 2025 06:58:45 GMT</pubDate>
       <author>InnoHEALTH Magazine</author>
       <category>Health News</category>
       <itunes:duration>00:05:00</itunes:duration>
-      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:summary><![CDATA[AI-generated daily health news summaries]]></itunes:summary>
     </item>
   </channel>
 </rss>
