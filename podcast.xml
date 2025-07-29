@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>InnoHEALTH Magazine Podcast</title>
+    <title>Daily News PodCast</title>
     <description><![CDATA[AI-generated daily health news summaries]]></description>
     <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     <language>en-us</language>
@@ -14,7 +14,7 @@
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://drive.google.com/uc?export=view&id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy</url>
-      <title>InnoHEALTH Magazine Podcast</title>
+      <title>Daily News PodCast</title>
       <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     </image>
   </channel>
