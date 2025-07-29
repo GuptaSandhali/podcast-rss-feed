@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Daily News Podcast</title>
+    <title>InnoHEALTH Magazine Podcast</title>
     <description><![CDATA[]]>AI-generated daily health news summaries</description>
     <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     <language>en-us</language>
@@ -14,15 +14,15 @@
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://drive.google.com/uc?export=view&id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy</url>
-      <title>Daily News Podcast</title>
+      <title>InnoHEALTH Magazine Podcast</title>
       <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     </image>
     <item>
       <title><![CDATA[Daily Health News - 7/29/2025]]></title>
       <description><![CDATA[Daily AI-generated health news summary]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OLUxgXacmUPQ-7Zo-eVa3_sC-LdOb4pL" type="audio/mpeg" length="0"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JGc0yvGVigT4qBtszd6NjVIqM9F3aoL-" type="audio/mpeg" length="0"/>
       <guid isPermaLink="false">false</guid>
-      <pubDate>Tue, 29 Jul 2025 07:29:08 GMT</pubDate>
+      <pubDate>Tue, 29 Jul 2025 07:31:02 GMT</pubDate>
       <author>InnoHEALTH Magazine</author>
       <category>Health News</category>
       <itunes:duration>00:05:00</itunes:duration>
