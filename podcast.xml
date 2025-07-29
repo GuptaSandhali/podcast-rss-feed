@@ -10,19 +10,19 @@
     <itunes:author>InnoHEALTH Magazine</itunes:author>
     <itunes:summary><![CDATA[Daily AI-generated health news summary]]></itunes:summary>
     <itunes:category text="Health &amp; Fitness"/>
-    <itunes:image href="https://guptasandhali.github.io/podcast-rss-feed/podcast-cover.jpg"/>
+    <itunes:image href="https://drive.google.com/uc?export=view&id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy"/>
     <itunes:explicit>false</itunes:explicit>
     <image>
-      <url>https://guptasandhali.github.io/podcast-rss-feed/podcast-cover.jpg</url>
+      <url>https://drive.google.com/uc?export=view&id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy</url>
       <title>InnoHEALTH Magazine Podcast</title>
       <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     </image>
     <item>
       <title><![CDATA[Daily Health News - 7/29/2025]]></title>
       <description><![CDATA[Daily AI-generated health news summary]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=115E8ZY9gJYhxgBHHSjH20EjrhW9joa2V" type="audio/mpeg" length="0"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GJyKNq6HOPSW522eZ-kGoArs5YaF9wZp" type="audio/mpeg" length="0"/>
       <guid isPermaLink="false">false</guid>
-      <pubDate>Tue, 29 Jul 2025 06:11:27 GMT</pubDate>
+      <pubDate>Tue, 29 Jul 2025 06:13:12 GMT</pubDate>
       <author>InnoHEALTH Magazine</author>
       <category>Health News</category>
       <itunes:duration>00:05:00</itunes:duration>
