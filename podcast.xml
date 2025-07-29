@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?> <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">   <channel>     <title>InnoHEALTH Magazine Podcast</title>     <description>AI-generated daily health news summaries</description>     <link>https://guptasandhali.github.io/New-Podcast</link>     <language>en-us</language>     <copyright>© 2025 InnoHEALTH Magazine</copyright>     <managingEditor>podcast@innohealth.com (InnoHEALTH Magazine)</managingEditor>     <category>Health & Fitness</category>     <itunes:author>InnoHEALTH Magazine</itunes:author>     <itunes:summary>Daily AI-generated health news summary</itunes:summary>     <itunes:category text="Health &amp; Fitness"/>     <itunes:image href="https://guptasandhali.github.io/New-Podcast/podcast-cover.jpg"/>     <itunes:explicit>false</itunes:explicit>     <image>       <url>https://guptasandhali.github.io/New-Podcast/podcast-cover.jpg</url>       <title>InnoHEALTH Magazine Podcast</title>       <link>https://guptasandhali.github.io/New-Podcast</link>     </image>     <item>       <title>Daily Health News - 7/29/2025</title>       <description><![CDATA[Daily AI-generated health news summary]]></description>       <enclosure url="https://drive.google.com/uc?export=download&id=1hQPOAcdQ2i3p5ili_TdLGs-Dt9AWPyOi" type="audio/mpeg" length="0"/>       <guid isPermaLink="false">episode-1753763212887</guid>       <pubDate>Tue, 29 Jul 2025 04:26:52 GMT</pubDate>       <author>InnoHEALTH Magazine</author>       <category>Health News</category>       <itunes:duration>00:05:00</itunes:duration>       <itunes:summary><![CDATA[Daily AI-generated health news summary]]></itunes:summary>     </item>   </channel> </rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>InnoHEALTH Magazine Podcast</title>
+    <description><![CDATA[]]>AI-generated daily health news summaries</description>
+    <link>https://guptasandhali.github.io/New-Podcast</link>
+    <language>en-us</language>
+    <copyright>© 2025 InnoHEALTH Magazine</copyright>
+    <managingEditor>podcast@innohealth.com (InnoHEALTH Magazine)</managingEditor>
+    <itunes:author>InnoHEALTH Magazine</itunes:author>
+    <itunes:summary><![CDATA[Daily AI-generated health news summary]]></itunes:summary>
+    <itunes:category text="Health &amp; Fitness"/>
+    <itunes:image href="https://guptasandhali.github.io/New-Podcast/podcast-cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://guptasandhali.github.io/New-Podcast/podcast-cover.jpg</url>
+      <title>InnoHEALTH Magazine Podcast</title>
+      <link>https://guptasandhali.github.io/New-Podcast</link>
+    </image>
+    <item>
+      <title><![CDATA[Daily Health News - 7/29/2025]]></title>
+      <description><![CDATA[Daily AI-generated health news summary]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1o9eM9zm8LtML2Pg5ePuXfaD1YcB0fB3p" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">false</guid>
+      <pubDate>Tue, 29 Jul 2025 04:54:24 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:summary><![CDATA[AI-generated daily health news summaries]]></itunes:summary>
+    </item>
+  </channel>
+</rss>
