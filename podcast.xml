@@ -18,6 +18,17 @@
       <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     </image>
     <item>
+      <title><![CDATA[Daily Health News]]></title>
+      <description><![CDATA[Daily AI-generated health news summary]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10EjSf7byCWfF54445uN02MHmFRnwu2en" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754301074546</guid>
+      <pubDate>Mon, 04 Aug 2025 09:51:14 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Daily AI-generated health news summary]]></itunes:summary>
+    </item>
+    <item>
       <title><![CDATA[Game-Changing Advancements Shaping the Future of Global Healthcare in 2025]]></title>
       <description><![CDATA[Explore essential news on sustainable breastfeeding, healthcare center challenges, market disruptions, and new tech for smarter healthcare decisions. 🌍💡 #healthcare #innovation #news]]></description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mwnTJcvXu1JK8wpsnkkerqV9F3EP8v-q" type="audio/mpeg" length="0"/>
@@ -115,61 +126,6 @@
       <category>Health News</category>
       <itunes:duration>0:05:00</itunes:duration>
       <itunes:summary><![CDATA[Revolutionizing Healthcare with Cutting-Edge Tech 💡]]></itunes:summary>
-    </item>
-    <item>
-      <title><![CDATA[Daily Health News - 7/29/2025]]></title>
-      <description><![CDATA[Daily Health News PodCast]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1x3E_6t7uEXBPA0iBwxwSDlJQ7pXv8fqs" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">episode-episode-1753787680739</guid>
-      <pubDate>Tue, 29 Jul 2025 11:14:40 GMT</pubDate>
-      <author>InnoHEALTH Magazine</author>
-      <category>Health News</category>
-      <itunes:duration>0:05:00</itunes:duration>
-      <itunes:summary><![CDATA[Daily Health News PodCast]]></itunes:summary>
-    </item>
-    <item>
-      <title><![CDATA[Daily Health News - 7/29/2025]]></title>
-      <description><![CDATA[Daily Health News PodCast]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xyFh1_zczoTCyIoGZD3QrLeQyX3uu0Nl" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">episode-episode-1753787336986</guid>
-      <pubDate>Tue, 29 Jul 2025 11:08:56 GMT</pubDate>
-      <author>InnoHEALTH Magazine</author>
-      <category>Health News</category>
-      <itunes:duration>0:05:00</itunes:duration>
-      <itunes:summary><![CDATA[Daily Health News PodCast]]></itunes:summary>
-    </item>
-    <item>
-      <title><![CDATA[Daily Health News - 7/29/2025]]></title>
-      <description><![CDATA[Daily Health News PodCast]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HITfMV6hNqmbk2z1YmwES8ZK7h6ltN-8" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">episode-episode-1753786108709</guid>
-      <pubDate>Tue, 29 Jul 2025 10:48:28 GMT</pubDate>
-      <author>InnoHEALTH Magazine</author>
-      <category>Health News</category>
-      <itunes:duration>0:05:00</itunes:duration>
-      <itunes:summary><![CDATA[Daily Health News PodCast]]></itunes:summary>
-    </item>
-    <item>
-      <title><![CDATA[Daily Health News - 7/29/2025]]></title>
-      <description><![CDATA[Daily Health News PodCast]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jv_-j4DxLUg3MFaTkMjiwE2GZ3Ts7a9h" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">episode-episode-1753783785932</guid>
-      <pubDate>Tue, 29 Jul 2025 10:09:45 GMT</pubDate>
-      <author>InnoHEALTH Magazine</author>
-      <category>Health News</category>
-      <itunes:duration>0:05:00</itunes:duration>
-      <itunes:summary><![CDATA[Daily Health News PodCast]]></itunes:summary>
-    </item>
-    <item>
-      <title><![CDATA[Daily Health News - 7/29/2025]]></title>
-      <description><![CDATA[Daily Health News PodCast]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ycKiYNxU7_YShX43Fuoj3NiOmo1iwM5x" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">episode-episode-1753783726732</guid>
-      <pubDate>Tue, 29 Jul 2025 10:08:46 GMT</pubDate>
-      <author>InnoHEALTH Magazine</author>
-      <category>Health News</category>
-      <itunes:duration>0:05:00</itunes:duration>
-      <itunes:summary><![CDATA[Daily Health News PodCast]]></itunes:summary>
     </item>
   </channel>
 </rss>
