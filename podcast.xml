@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>InnovatioCuris Daily News</title>
-    <description><![CDATA[AI-generated daily health news summaries]]></description>
+    <title>InnovatioCuris Daily Health News</title>
+    <description><![CDATA[Innovatiocuris Daily Health News brings you the latest and most insightful updates on health and wellness. Tune in every day for fresh, accurate, and in-depth news covering a range of health topics—from medical breakthroughs and health trends to tips for living a healthier life. Stay informed and empowered with expert insights, wellness advice, and the latest discoveries that impact your daily well-being.]]></description>
     <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     <language>en-us</language>
     <copyright>© 2025 InnoHEALTH Magazine</copyright>
     <managingEditor>podcast@innohealth.com (InnoHEALTH Magazine)</managingEditor>
     <itunes:author>InnoHEALTH Magazine</itunes:author>
-    <itunes:summary><![CDATA[AI-generated daily health news summaries]]></itunes:summary>
+    <itunes:summary><![CDATA[Innovatiocuris Daily Health News brings you the latest and most insightful updates on health and wellness. Tune in every day for fresh, accurate, and in-depth news covering a range of health topics—from medical breakthroughs and health trends to tips for living a healthier life. Stay informed and empowered with expert insights, wellness advice, and the latest discoveries that impact your daily well-being.]]></itunes:summary>
     <itunes:category text="Health &amp; Fitness"/>
-    <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy"/>
+    <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1Fvavev_gfm6FDkh-wYZbFYKQlClUroQw"/>
     <itunes:explicit>false</itunes:explicit>
     <image>
-      <url>https://drive.google.com/uc?export=view&amp;id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy</url>
-      <title>InnovatioCuris Daily News</title>
+      <url>https://drive.google.com/uc?export=view&amp;id=1Fvavev_gfm6FDkh-wYZbFYKQlClUroQw</url>
+      <title>InnovatioCuris Daily Health News</title>
       <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     </image>
+    <item>
+      <title><![CDATA[Daily Health News]]></title>
+      <description><![CDATA[Daily AI-generated health news summary]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nDwN3wmziFWABKCxScIVslpAiMPYpzez" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754305741160</guid>
+      <pubDate>Mon, 04 Aug 2025 11:09:01 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Daily AI-generated health news summary]]></itunes:summary>
+    </item>
     <item>
       <title><![CDATA[Global Healthcare Developments: Breastfeeding Support, Stock Plunges, Infrastructure Woes, and Recent Sector Updates]]></title>
       <description><![CDATA[Discover transformative global healthcare news! 🏥 Breastfeeding systems, stock crises, frail clinics, and industry highlights. #healthnews #breaking #trending]]></description>
