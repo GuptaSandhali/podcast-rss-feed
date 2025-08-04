@@ -1,21 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>InnovatioCuris Daily Health News</title>
-    <description><![CDATA[InnovatioCuris Daily Health News brings you the latest updates in health, medical research, and wellness trends. Tune in daily for concise, reliable news and insights to keep you informed and empowered about the world of healthcare.]]></description>
+    <title>InnovatioCuris Daily News</title>
+    <description><![CDATA[AI-generated daily health news summaries]]></description>
     <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     <language>en-us</language>
     <copyright>© 2025 InnoHEALTH Magazine</copyright>
     <managingEditor>podcast@innohealth.com (InnoHEALTH Magazine)</managingEditor>
     <itunes:author>InnoHEALTH Magazine</itunes:author>
-    <itunes:summary><![CDATA[InnovatioCuris Daily Health News brings you the latest updates in health, medical research, and wellness trends. Tune in daily for concise, reliable news and insights to keep you informed and empowered about the world of healthcare.]]></itunes:summary>
+    <itunes:summary><![CDATA[AI-generated daily health news summaries]]></itunes:summary>
     <itunes:category text="Health &amp; Fitness"/>
-    <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1Fvavev_gfm6FDkh-wYZbFYKQlClUroQw"/>
+    <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy"/>
     <itunes:explicit>false</itunes:explicit>
     <image>
-      <url>https://drive.google.com/uc?export=view&amp;id=1Fvavev_gfm6FDkh-wYZbFYKQlClUroQw</url>
-      <title>InnovatioCuris Daily Health News</title>
+      <url>https://drive.google.com/uc?export=view&amp;id=1pPDfEVnt_uI8mlk1ZCMjNSg7EESZ_KGy</url>
+      <title>InnovatioCuris Daily News</title>
       <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     </image>
+    <item>
+      <title><![CDATA[Global Healthcare Developments: Breastfeeding Support, Stock Plunges, Infrastructure Woes, and Recent Sector Updates]]></title>
+      <description><![CDATA[Discover transformative global healthcare news! 🏥 Breastfeeding systems, stock crises, frail clinics, and industry highlights. #healthnews #breaking #trending]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CxAhOVyzWzDNYsknXQ1Q6mCAbjifuD0g" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754304776721</guid>
+      <pubDate>Mon, 04 Aug 2025 10:52:56 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Discover transformative global healthcare news! 🏥 Breastfeeding systems, stock crises, frail clinics, and industry highlights. #healthnews #breaking #trending]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Daily Health News]]></title>
+      <description><![CDATA[Daily AI-generated health news summary]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10EjSf7byCWfF54445uN02MHmFRnwu2en" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754301074546</guid>
+      <pubDate>Mon, 04 Aug 2025 09:51:14 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Daily AI-generated health news summary]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Game-Changing Advancements Shaping the Future of Global Healthcare in 2025]]></title>
+      <description><![CDATA[Explore essential news on sustainable breastfeeding, healthcare center challenges, market disruptions, and new tech for smarter healthcare decisions. 🌍💡 #healthcare #innovation #news]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mwnTJcvXu1JK8wpsnkkerqV9F3EP8v-q" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754291845533</guid>
+      <pubDate>Mon, 04 Aug 2025 07:17:25 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Explore essential news on sustainable breastfeeding, healthcare center challenges, market disruptions, and new tech for smarter healthcare decisions. 🌍💡 #healthcare #innovation #news]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Daily Health News]]></title>
+      <description><![CDATA[Daily AI-generated health news summary]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BZqctzZJ5YyDx-RehR8ogAl34BAy53TG" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754289925584</guid>
+      <pubDate>Mon, 04 Aug 2025 06:45:25 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Daily AI-generated health news summary]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Top Innovations and Changes in Healthcare: Today’s Breaking Global Developments]]></title>
+      <description><![CDATA[🌟 Discover the latest in healthcare innovations, investments, market shifts, and leadership moves! #healthcare #news #trending #global]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AQRXm1Fb7vKCGx9-9jhdLMnHEtraT8Ae" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754039693870</guid>
+      <pubDate>Fri, 01 Aug 2025 09:14:53 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[🌟 Discover the latest in healthcare innovations, investments, market shifts, and leadership moves! #healthcare #news #trending #global]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Healthcare Launches, Market Dips & New Ventures Shape Global Industry]]></title>
+      <description><![CDATA[Mobile care in Gujarat, NHS sector insights, EU market slides, Blue Jet expansion, and a new healthcare app! #news 🌎]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1I-pujx0guJ3cLWCMU-Nv27hbmEmauyDC" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754039167329</guid>
+      <pubDate>Fri, 01 Aug 2025 09:06:07 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Mobile care in Gujarat, NHS sector insights, EU market slides, Blue Jet expansion, and a new healthcare app! #news 🌎]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Mobile Clinics, Healthcare Shifts, Market Moves & New Health Ventures Emerging]]></title>
+      <description><![CDATA[From tribal mobile clinics to healthcare market trends and new ventures—get the buzz in a flash! 🚑 #healthnews #trending]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10N8kPBKemPZKP5AGKvSsakRPHCojaMU1" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754038998305</guid>
+      <pubDate>Fri, 01 Aug 2025 09:03:18 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[From tribal mobile clinics to healthcare market trends and new ventures—get the buzz in a flash! 🚑 #healthnews #trending]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Healthcare Innovations & Business Shifts: Latest Global Updates]]></title>
+      <description><![CDATA[From tribal health initiatives and NHS trends to market shifts and bold new ventures 🚀 #healthcare #trending #updates]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BgdBiNuuri-RODXWD88aBtPhPpNRXyXs" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754038429007</guid>
+      <pubDate>Fri, 01 Aug 2025 08:53:49 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[From tribal health initiatives and NHS trends to market shifts and bold new ventures 🚀 #healthcare #trending #updates]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Groundbreaking Health Advances: Tech, Treatment, and Expansion]]></title>
+      <description><![CDATA[Hot trends in healthcare: new tech, medical hacks & big moves! 🚀 #healthnews #innovation]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-ACU--9spG3n3wHWCcTgXVLvUCphKN0M" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1754026455755</guid>
+      <pubDate>Fri, 01 Aug 2025 05:34:15 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Hot trends in healthcare: new tech, medical hacks & big moves! 🚀 #healthnews #innovation]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[India Leads with Breakthroughs in Digital and AI-Driven Healthcare]]></title>
+      <description><![CDATA[See how India's smart tech is making healthcare modern and accessible! 🚀 #healthinnovation #India #trending]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SKrbYqpi-oB8KIUnDxUu5vLTNqs5Ew_m" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1753862018031</guid>
+      <pubDate>Wed, 30 Jul 2025 07:53:38 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[See how India's smart tech is making healthcare modern and accessible! 🚀 #healthinnovation #India #trending]]></itunes:summary>
+    </item>
+    <item>
+      <title><![CDATA[Health Innovations in India]]></title>
+      <description><![CDATA[Revolutionizing Healthcare with Cutting-Edge Tech 💡]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15lob4D5NIM9lQ6WV7fOwHNdcvM2n9AJc" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1753856559677</guid>
+      <pubDate>Wed, 30 Jul 2025 06:22:39 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Revolutionizing Healthcare with Cutting-Edge Tech 💡]]></itunes:summary>
+    </item>
   </channel>
 </rss>
