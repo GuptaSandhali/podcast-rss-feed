@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>© 2025 InnoHEALTH Magazine</copyright>
     <managingEditor>podcast@innohealth.com (InnoHEALTH Magazine)</managingEditor>
-    <itunes:author>InnoHEALTH Magazine</itunes:author>
+    <itunes:author>InnovatioCuris</itunes:author>
     <itunes:summary><![CDATA[Innovatiocuris Daily Health News brings you the latest and most insightful updates on health and wellness. Tune in every day for fresh, accurate, and in-depth news covering a range of health topics—from medical breakthroughs and health trends to tips for living a healthier life. Stay informed and empowered with expert insights, wellness advice, and the latest discoveries that impact your daily well-being.]]></itunes:summary>
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1Fvavev_gfm6FDkh-wYZbFYKQlClUroQw"/>
@@ -17,6 +17,17 @@
       <title>InnovatioCuris Daily Health News</title>
       <link>https://guptasandhali.github.io/podcast-rss-feed</link>
     </image>
+    <item>
+      <title><![CDATA[IIT Kharagpur Launches New Training Center for Rural Medical Workforce]]></title>
+      <description><![CDATA[Empowering rural healthcare through new training center by IIT Kharagpur. 🌐 #Healthcare #RuralDevelopment #Innovation]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19ma_GUWpC6G67LV409CVcYaS2qAY0ZEU" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">episode-episode-1755494115231</guid>
+      <pubDate>Mon, 18 Aug 2025 05:15:15 GMT</pubDate>
+      <author>InnoHEALTH Magazine</author>
+      <category>Health News</category>
+      <itunes:duration>0:05:00</itunes:duration>
+      <itunes:summary><![CDATA[Empowering rural healthcare through new training center by IIT Kharagpur. 🌐 #Healthcare #RuralDevelopment #Innovation]]></itunes:summary>
+    </item>
     <item>
       <title><![CDATA[Top Healthcare Innovations and Industry News from Leading Digital Publications Worldwide—Insights from Five Key Sources]]></title>
       <description><![CDATA[Stay updated with the latest healthcare trends, research breakthroughs, industry news, and policy changes from top global sources! 🚀 #healthcare #trending #industrynews]]></description>
